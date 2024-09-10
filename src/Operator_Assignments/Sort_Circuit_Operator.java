@@ -1,6 +1,6 @@
 package Operator_Assignments;
 
-public class Sort_Ciruit_Operator {
+public class Sort_Circuit_Operator {
     public static void main(String[] args) {
         int x=10,y=15;
         if (++x<10 & ++y>15)
